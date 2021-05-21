@@ -5,10 +5,10 @@
 
 ## Useful resources
 
-+[CryptoZombies](https://cryptozombies.io/)
-+[Roadmap For Blockchain Developer](https://www.softwaretestinghelp.com/blockchain-developer/)
-+[How To Become a Blockchain Developer: A Step-by-Step Guide](https://www.simplilearn.com/tutorials/blockchain-tutorial/how-to-become-a-blockchain-developer)
-+[What is Decentalization in Blockchain?](https://aws.amazon.com/blockchain/decentralization-in-blockchain/)
++	[CryptoZombies](https://cryptozombies.io/)
++	[Roadmap For Blockchain Developer](https://www.softwaretestinghelp.com/blockchain-developer/)
++	[How To Become a Blockchain Developer: A Step-by-Step Guide](https://www.simplilearn.com/tutorials/blockchain-tutorial/how-to-become-a-blockchain-developer)
++	[What is Decentalization in Blockchain?](https://aws.amazon.com/blockchain/decentralization-in-blockchain/)
 
 ## Requirements ( What I need to understand )
 
